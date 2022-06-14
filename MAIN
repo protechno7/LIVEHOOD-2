@@ -27,3 +27,35 @@ Add the Line using Html tags
 <hr size="8" width="100%" color="green">  
 </Body>   
 </Html>
+
+
+
+
+
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Add the Line using Internal CSS.   
+</Title>  
+<style>  
+hr  
+{  
+width: 80%;  
+height: 2px;  
+background-color: pink;  
+margin-bottom: 7px;  
+margin-right: auto;  
+margin-left: auto;  
+margin-top: 9px;  
+border-width: 4px;  
+border-color: blue;  
+}  
+</style>  
+</Head>  
+<Body>   
+This page helps you to understand how to add the line in Html document.  
+<hr>  
+And, this section helps you to understand how to add the line using the Internal Cascading Style Sheet.  
+</Body>   
+</Html>  
