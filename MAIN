@@ -7,7 +7,7 @@ Add the Line using Html tags
 </head>  
 <body>   
   
-<hr color="black" size="8" width="90%" />  
+<hr color="black" size="8" width="100%" />  
   
 </body>   
 </html>  
